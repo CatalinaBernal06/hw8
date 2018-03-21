@@ -1,0 +1,2 @@
+CatalinaBernal_ejecutar.py
+CatalinaBernal_anaylis.py
